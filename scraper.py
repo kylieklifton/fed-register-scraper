@@ -30,23 +30,19 @@ FIELDS = [
     "document_number",
     "title",
     "type",
-    "subtype",
     "abstract",
     "action",
     "publication_date",
     "effective_on",
     "dates",
-    "comment_url",
     "comments_close_on",
     "agencies",
-    "docket_numbers",
-    "regulation_id_number_info",
+    "docket_ids",
     "html_url",
     "pdf_url",
     "public_inspection_pdf_url",
     "excerpts",
     "body_html_url",
-    "page_views",
 ]
 
 # Columns written to the CSV — excludes full_text (too large) and nested objects
@@ -54,13 +50,12 @@ CSV_COLUMNS = [
     "document_number",
     "title",
     "type",
-    "subtype",
     "action",
     "publication_date",
     "effective_on",
     "comments_close_on",
     "agencies",
-    "docket_numbers",
+    "docket_ids",
     "html_url",
     "pdf_url",
     "has_full_text",
@@ -117,18 +112,17 @@ def write_csv(docs, path):
             agencies = "; ".join(
                 a.get("name", "") for a in doc.get("agencies", [])
             )
-            dockets = "; ".join(doc.get("docket_numbers") or [])
+            dockets = "; ".join(doc.get("docket_ids") or [])
             writer.writerow({
                 "document_number":  doc.get("document_number"),
                 "title":            doc.get("title"),
                 "type":             doc.get("type"),
-                "subtype":          doc.get("subtype"),
                 "action":           doc.get("action"),
                 "publication_date": doc.get("publication_date"),
                 "effective_on":     doc.get("effective_on"),
                 "comments_close_on": doc.get("comments_close_on"),
                 "agencies":         agencies,
-                "docket_numbers":   dockets,
+                "docket_ids":       dockets,
                 "html_url":         doc.get("html_url"),
                 "pdf_url":          doc.get("pdf_url"),
                 "has_full_text":    doc.get("full_text") is not None,

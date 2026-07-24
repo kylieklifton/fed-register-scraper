@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-24",
+  "total_documents": 135,
+  "by_type": {
+    "Notice": 108,
+    "Proposed Rule": 14,
+    "Rule": 11,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Energy Department",
+      "count": 20
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 20
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 16
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 13
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 13
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 11
+    },
+    {
+      "agency": "Defense Department",
+      "count": 7
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 7
+    },
+    {
+      "agency": "Labor Department",
+      "count": 7
+    },
+    {
+      "agency": "Mine Safety and Health Administration",
+      "count": 7
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 6
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 5
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 4
+    },
+    {
+      "agency": "Industry and Security Bureau",
+      "count": 4
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 12,
+  "with_comment_deadline": 50,
+  "body_text_fetched": 135
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-17",
+  "total_documents": 125,
+  "by_type": {
+    "Notice": 108,
+    "Rule": 11,
+    "Presidential Document": 3,
+    "Proposed Rule": 3
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 22
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 20
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 19
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 11
+    },
+    {
+      "agency": "Energy Department",
+      "count": 9
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 9
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 8
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 8
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 6
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 6
+    },
+    {
+      "agency": "Interior Department",
+      "count": 6
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 6
+    },
+    {
+      "agency": "Maritime Administration",
+      "count": 5
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 4
+    },
+    {
+      "agency": "Federal Motor Carrier Safety Administration",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 12,
+  "with_comment_deadline": 37,
+  "body_text_fetched": 125
+}

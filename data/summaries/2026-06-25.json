@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-25",
+  "total_documents": 99,
+  "by_type": {
+    "Notice": 63,
+    "Rule": 24,
+    "Proposed Rule": 10,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Homeland Security Department",
+      "count": 15
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 15
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 12
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 9
+    },
+    {
+      "agency": "Energy Department",
+      "count": 8
+    },
+    {
+      "agency": "Labor Department",
+      "count": 8
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 7
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 6
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 6
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 4
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 4
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 4
+    },
+    {
+      "agency": "Defense Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 4
+    },
+    {
+      "agency": "Mine Safety and Health Administration",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 23,
+  "with_comment_deadline": 40,
+  "body_text_fetched": 99
+}

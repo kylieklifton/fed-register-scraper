@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-17",
+  "total_documents": 100,
+  "by_type": {
+    "Notice": 78,
+    "Rule": 14,
+    "Proposed Rule": 5,
+    "Presidential Document": 3
+  },
+  "top_agencies": [
+    {
+      "agency": "Defense Department",
+      "count": 15
+    },
+    {
+      "agency": "Justice Department",
+      "count": 9
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 9
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 8
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 7
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 7
+    },
+    {
+      "agency": "Drug Enforcement Administration",
+      "count": 7
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 5
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 5
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 4
+    },
+    {
+      "agency": "Interior Department",
+      "count": 4
+    },
+    {
+      "agency": "Safety and Environmental Enforcement Bureau",
+      "count": 4
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 4
+    },
+    {
+      "agency": "Executive Office of the President",
+      "count": 3
+    },
+    {
+      "agency": "Foreign-Trade Zones Board",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 14,
+  "with_comment_deadline": 34,
+  "body_text_fetched": 100
+}

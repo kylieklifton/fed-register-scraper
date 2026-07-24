@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-09",
+  "total_documents": 92,
+  "by_type": {
+    "Notice": 76,
+    "Rule": 9,
+    "Proposed Rule": 7
+  },
+  "top_agencies": [
+    {
+      "agency": "Federal Reserve System",
+      "count": 10
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 10
+    },
+    {
+      "agency": "Energy Department",
+      "count": 9
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 8
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 6
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 5
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Emergency Management Agency",
+      "count": 5
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 4
+    },
+    {
+      "agency": "Forest Service",
+      "count": 4
+    },
+    {
+      "agency": "Internal Revenue Service",
+      "count": 3
+    },
+    {
+      "agency": "Interior Department",
+      "count": 3
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 9,
+  "with_comment_deadline": 28,
+  "body_text_fetched": 92
+}

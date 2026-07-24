@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-22",
+  "total_documents": 131,
+  "by_type": {
+    "Notice": 109,
+    "Proposed Rule": 18,
+    "Rule": 4
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 29
+    },
+    {
+      "agency": "Justice Department",
+      "count": 26
+    },
+    {
+      "agency": "National Park Service",
+      "count": 25
+    },
+    {
+      "agency": "Antitrust Division",
+      "count": 24
+    },
+    {
+      "agency": "Labor Department",
+      "count": 14
+    },
+    {
+      "agency": "Occupational Safety and Health Administration",
+      "count": 14
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 12
+    },
+    {
+      "agency": "Defense Department",
+      "count": 11
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 8
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 5
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 5
+    },
+    {
+      "agency": "Surface Transportation Board",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 3
+    },
+    {
+      "agency": "Personnel Management Office",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 4,
+  "with_comment_deadline": 39,
+  "body_text_fetched": 131
+}

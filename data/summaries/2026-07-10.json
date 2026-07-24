@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-10",
+  "total_documents": 85,
+  "by_type": {
+    "Notice": 63,
+    "Rule": 15,
+    "Proposed Rule": 7
+  },
+  "top_agencies": [
+    {
+      "agency": "Transportation Department",
+      "count": 15
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 15
+    },
+    {
+      "agency": "Justice Department",
+      "count": 6
+    },
+    {
+      "agency": "Energy Department",
+      "count": 6
+    },
+    {
+      "agency": "Interior Department",
+      "count": 6
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 6
+    },
+    {
+      "agency": "Drug Enforcement Administration",
+      "count": 5
+    },
+    {
+      "agency": "National Park Service",
+      "count": 5
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 5
+    },
+    {
+      "agency": "Veterans Affairs Department",
+      "count": 5
+    },
+    {
+      "agency": "Housing and Urban Development Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 5
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 16,
+  "with_comment_deadline": 35,
+  "body_text_fetched": 85
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-06-18",
+  "total_documents": 121,
+  "by_type": {
+    "Notice": 106,
+    "Rule": 8,
+    "Proposed Rule": 5,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Health and Human Services Department",
+      "count": 21
+    },
+    {
+      "agency": "Energy Department",
+      "count": 21
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 20
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 15
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 12
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 8
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 6
+    },
+    {
+      "agency": "Centers for Disease Control and Prevention",
+      "count": 6
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 6
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 5
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 5
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 5
+    },
+    {
+      "agency": "Education Department",
+      "count": 4
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 8,
+  "with_comment_deadline": 36,
+  "body_text_fetched": 121
+}

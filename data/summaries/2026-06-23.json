@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-23",
+  "total_documents": 97,
+  "by_type": {
+    "Notice": 75,
+    "Rule": 12,
+    "Proposed Rule": 10
+  },
+  "top_agencies": [
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 18
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 16
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 12
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 7
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 7
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 6
+    },
+    {
+      "agency": "Foreign-Trade Zones Board",
+      "count": 6
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 6
+    },
+    {
+      "agency": "Personnel Management Office",
+      "count": 5
+    },
+    {
+      "agency": "Defense Department",
+      "count": 5
+    },
+    {
+      "agency": "Management and Budget Office",
+      "count": 4
+    },
+    {
+      "agency": "Federal Procurement Policy Office",
+      "count": 4
+    },
+    {
+      "agency": "General Services Administration",
+      "count": 4
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "count": 4
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 17,
+  "with_comment_deadline": 35,
+  "body_text_fetched": 97
+}

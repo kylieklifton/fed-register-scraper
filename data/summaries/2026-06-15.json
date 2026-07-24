@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-15",
+  "total_documents": 99,
+  "by_type": {
+    "Notice": 77,
+    "Rule": 13,
+    "Proposed Rule": 9
+  },
+  "top_agencies": [
+    {
+      "agency": "Transportation Department",
+      "count": 11
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 10
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 10
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 9
+    },
+    {
+      "agency": "Interior Department",
+      "count": 8
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 7
+    },
+    {
+      "agency": "Education Department",
+      "count": 5
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Judicial Conference of the United States",
+      "count": 5
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 5
+    },
+    {
+      "agency": "Justice Department",
+      "count": 5
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 4
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 4
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 4
+    },
+    {
+      "agency": "Land Management Bureau",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 13,
+  "with_comment_deadline": 39,
+  "body_text_fetched": 99
+}

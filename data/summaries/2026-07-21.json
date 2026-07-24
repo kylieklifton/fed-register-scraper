@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-21",
+  "total_documents": 91,
+  "by_type": {
+    "Notice": 70,
+    "Rule": 16,
+    "Proposed Rule": 5
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 14
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 12
+    },
+    {
+      "agency": "Energy Department",
+      "count": 11
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 8
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 8
+    },
+    {
+      "agency": "Interior Department",
+      "count": 7
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 7
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 6
+    },
+    {
+      "agency": "Fish and Wildlife Service",
+      "count": 6
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 5
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 5
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 4
+    },
+    {
+      "agency": "Commodity Futures Trading Commission",
+      "count": 3
+    },
+    {
+      "agency": "Defense Department",
+      "count": 3
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 16,
+  "with_comment_deadline": 17,
+  "body_text_fetched": 91
+}

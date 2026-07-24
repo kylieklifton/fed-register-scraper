@@ -1,0 +1,75 @@
+{
+  "date": "2026-07-08",
+  "total_documents": 88,
+  "by_type": {
+    "Notice": 77,
+    "Proposed Rule": 6,
+    "Rule": 4,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 24
+    },
+    {
+      "agency": "National Park Service",
+      "count": 22
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 11
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 9
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 7
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 6
+    },
+    {
+      "agency": "Energy Department",
+      "count": 6
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 6
+    },
+    {
+      "agency": "Defense Department",
+      "count": 4
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 3
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 3
+    },
+    {
+      "agency": "Federal Railroad Administration",
+      "count": 3
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 3
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 4,
+  "with_comment_deadline": 23,
+  "body_text_fetched": 88
+}

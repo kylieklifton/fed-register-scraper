@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-04",
+  "total_documents": 98,
+  "by_type": {
+    "Notice": 65,
+    "Rule": 25,
+    "Proposed Rule": 6,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Transportation Department",
+      "count": 24
+    },
+    {
+      "agency": "Pipeline and Hazardous Materials Safety Administration",
+      "count": 16
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 14
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 10
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 9
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 8
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 5
+    },
+    {
+      "agency": "Energy Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 5
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 3
+    },
+    {
+      "agency": "Housing and Urban Development Department",
+      "count": 3
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 3
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 3
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "Federal Reserve System",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 27,
+  "with_comment_deadline": 22,
+  "body_text_fetched": 98
+}

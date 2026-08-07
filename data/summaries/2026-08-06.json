@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-06",
+  "total_documents": 154,
+  "by_type": {
+    "Notice": 118,
+    "Rule": 27,
+    "Proposed Rule": 8,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 38
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 25
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 15
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 13
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 12
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "count": 11
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 8
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 8
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 8
+    },
+    {
+      "agency": "Energy Department",
+      "count": 8
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 8
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 8
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 7
+    },
+    {
+      "agency": "Federal Emergency Management Agency",
+      "count": 7
+    },
+    {
+      "agency": "Commodity Futures Trading Commission",
+      "count": 5
+    }
+  ],
+  "with_effective_date": 34,
+  "with_comment_deadline": 48,
+  "body_text_fetched": 154
+}

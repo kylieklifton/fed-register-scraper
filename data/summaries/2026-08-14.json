@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-14",
+  "total_documents": 126,
+  "by_type": {
+    "Notice": 97,
+    "Rule": 16,
+    "Proposed Rule": 11,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Energy Department",
+      "count": 11
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 10
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 10
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 10
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 9
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 9
+    },
+    {
+      "agency": "General Services Administration",
+      "count": 8
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 8
+    },
+    {
+      "agency": "Management and Budget Office",
+      "count": 7
+    },
+    {
+      "agency": "Defense Department",
+      "count": 7
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 7
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 7
+    },
+    {
+      "agency": "Federal Procurement Policy Office",
+      "count": 6
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "count": 6
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 6
+    }
+  ],
+  "with_effective_date": 18,
+  "with_comment_deadline": 42,
+  "body_text_fetched": 126
+}

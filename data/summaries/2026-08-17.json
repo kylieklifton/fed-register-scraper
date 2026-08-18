@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-17",
+  "total_documents": 84,
+  "by_type": {
+    "Notice": 70,
+    "Proposed Rule": 8,
+    "Rule": 5,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 17
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 17
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 7
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 4
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "Energy Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "Centers for Disease Control and Prevention",
+      "count": 4
+    },
+    {
+      "agency": "Library of Congress",
+      "count": 4
+    },
+    {
+      "agency": "Copyright Royalty Board",
+      "count": 4
+    },
+    {
+      "agency": "Internal Revenue Service",
+      "count": 2
+    }
+  ],
+  "with_effective_date": 8,
+  "with_comment_deadline": 33,
+  "body_text_fetched": 84
+}

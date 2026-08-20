@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-19",
+  "total_documents": 87,
+  "by_type": {
+    "Notice": 74,
+    "Proposed Rule": 8,
+    "Rule": 4,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Labor Department",
+      "count": 19
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 11
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 10
+    },
+    {
+      "agency": "Energy Department",
+      "count": 9
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 9
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 8
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 5
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 4
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "Employment and Training Administration",
+      "count": 4
+    },
+    {
+      "agency": "Health Resources and Services Administration",
+      "count": 3
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 6,
+  "with_comment_deadline": 45,
+  "body_text_fetched": 87
+}

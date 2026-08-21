@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-20",
+  "total_documents": 108,
+  "by_type": {
+    "Notice": 84,
+    "Proposed Rule": 12,
+    "Rule": 12
+  },
+  "top_agencies": [
+    {
+      "agency": "Health and Human Services Department",
+      "count": 13
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 11
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 11
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 10
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 7
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 6
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 5
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 5
+    },
+    {
+      "agency": "U.S. Codex Office",
+      "count": 4
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "Justice Department",
+      "count": 4
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 4
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 4
+    },
+    {
+      "agency": "Centers for Disease Control and Prevention",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 14,
+  "with_comment_deadline": 47,
+  "body_text_fetched": 108
+}

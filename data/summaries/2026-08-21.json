@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-21",
+  "total_documents": 116,
+  "by_type": {
+    "Notice": 93,
+    "Rule": 17,
+    "Proposed Rule": 6
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 18
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 17
+    },
+    {
+      "agency": "Labor Department",
+      "count": 14
+    },
+    {
+      "agency": "Federal Emergency Management Agency",
+      "count": 12
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 10
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 9
+    },
+    {
+      "agency": "Energy Department",
+      "count": 9
+    },
+    {
+      "agency": "Interior Department",
+      "count": 8
+    },
+    {
+      "agency": "Occupational Safety and Health Administration",
+      "count": 8
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 8
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 7
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 7
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 6
+    },
+    {
+      "agency": "Education Department",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 25,
+  "with_comment_deadline": 41,
+  "body_text_fetched": 116
+}

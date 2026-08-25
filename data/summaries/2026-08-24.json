@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-24",
+  "total_documents": 84,
+  "by_type": {
+    "Notice": 73,
+    "Proposed Rule": 5,
+    "Rule": 5,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 25
+    },
+    {
+      "agency": "National Park Service",
+      "count": 21
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 12
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 9
+    },
+    {
+      "agency": "Energy Department",
+      "count": 6
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 4
+    },
+    {
+      "agency": "Defense Department",
+      "count": 4
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 3
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 2
+    },
+    {
+      "agency": "Internal Revenue Service",
+      "count": 2
+    },
+    {
+      "agency": "Justice Department",
+      "count": 2
+    },
+    {
+      "agency": "Foreign-Trade Zones Board",
+      "count": 2
+    }
+  ],
+  "with_effective_date": 9,
+  "with_comment_deadline": 18,
+  "body_text_fetched": 84
+}

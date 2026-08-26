@@ -1,0 +1,75 @@
+{
+  "date": "2026-08-25",
+  "total_documents": 90,
+  "by_type": {
+    "Notice": 74,
+    "Rule": 10,
+    "Proposed Rule": 4,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Justice Department",
+      "count": 13
+    },
+    {
+      "agency": "Drug Enforcement Administration",
+      "count": 12
+    },
+    {
+      "agency": "Energy Department",
+      "count": 9
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Surface Transportation Board",
+      "count": 6
+    },
+    {
+      "agency": "Personnel Management Office",
+      "count": 5
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 5
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 5
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 5
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "Education Department",
+      "count": 3
+    },
+    {
+      "agency": "Foreign Assets Control Office",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 12,
+  "with_comment_deadline": 43,
+  "body_text_fetched": 90
+}

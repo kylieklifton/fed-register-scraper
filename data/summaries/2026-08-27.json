@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-27",
+  "total_documents": 99,
+  "by_type": {
+    "Notice": 71,
+    "Rule": 20,
+    "Proposed Rule": 8
+  },
+  "top_agencies": [
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 23
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 8
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 8
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 7
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 5
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "Justice Department",
+      "count": 4
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 3
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 3
+    },
+    {
+      "agency": "National Highway Traffic Safety Administration",
+      "count": 3
+    },
+    {
+      "agency": "Agricultural Marketing Service",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 17,
+  "with_comment_deadline": 40,
+  "body_text_fetched": 99
+}

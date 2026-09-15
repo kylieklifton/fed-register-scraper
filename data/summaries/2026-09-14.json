@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-14",
+  "total_documents": 156,
+  "by_type": {
+    "Notice": 137,
+    "Proposed Rule": 8,
+    "Rule": 6,
+    "Presidential Document": 5
+  },
+  "top_agencies": [
+    {
+      "agency": "Homeland Security Department",
+      "count": 35
+    },
+    {
+      "agency": "U.S. Citizenship and Immigration Services",
+      "count": 34
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 27
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 16
+    },
+    {
+      "agency": "Energy Department",
+      "count": 13
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 13
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 12
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 10
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 7
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 7
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 6
+    },
+    {
+      "agency": "Executive Office of the President",
+      "count": 5
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 5
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 5
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 8,
+  "with_comment_deadline": 63,
+  "body_text_fetched": 156
+}

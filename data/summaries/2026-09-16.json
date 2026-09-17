@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-16",
+  "total_documents": 104,
+  "by_type": {
+    "Notice": 92,
+    "Rule": 8,
+    "Proposed Rule": 3,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 19
+    },
+    {
+      "agency": "National Park Service",
+      "count": 18
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 13
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 13
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 13
+    },
+    {
+      "agency": "Justice Department",
+      "count": 10
+    },
+    {
+      "agency": "Antitrust Division",
+      "count": 10
+    },
+    {
+      "agency": "Energy Department",
+      "count": 9
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 9
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 7
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 6
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Railroad Administration",
+      "count": 4
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 11,
+  "with_comment_deadline": 20,
+  "body_text_fetched": 104
+}

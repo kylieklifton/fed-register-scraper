@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-23",
+  "total_documents": 98,
+  "by_type": {
+    "Notice": 80,
+    "Rule": 11,
+    "Proposed Rule": 5,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 25
+    },
+    {
+      "agency": "National Park Service",
+      "count": 24
+    },
+    {
+      "agency": "Energy Department",
+      "count": 10
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 10
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 10
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 7
+    },
+    {
+      "agency": "Foreign Assets Control Office",
+      "count": 6
+    },
+    {
+      "agency": "Justice Department",
+      "count": 6
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 4
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 3
+    },
+    {
+      "agency": "Housing and Urban Development Department",
+      "count": 3
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 3
+    },
+    {
+      "agency": "Federal Reserve System",
+      "count": 3
+    },
+    {
+      "agency": "Management and Budget Office",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 6,
+  "with_comment_deadline": 16,
+  "body_text_fetched": 98
+}

@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-25",
+  "total_documents": 104,
+  "by_type": {
+    "Notice": 80,
+    "Rule": 16,
+    "Proposed Rule": 8
+  },
+  "top_agencies": [
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 15
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 10
+    },
+    {
+      "agency": "Defense Department",
+      "count": 9
+    },
+    {
+      "agency": "Justice Department",
+      "count": 8
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 7
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 7
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 5
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 5
+    },
+    {
+      "agency": "Alcohol, Tobacco, Firearms, and Explosives Bureau",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 4
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "Committee for the Implementation of Textile Agreements",
+      "count": 4
+    },
+    {
+      "agency": "Energy Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "Navy Department",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 17,
+  "with_comment_deadline": 35,
+  "body_text_fetched": 104
+}

@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-28",
+  "total_documents": 101,
+  "by_type": {
+    "Notice": 83,
+    "Rule": 13,
+    "Proposed Rule": 5
+  },
+  "top_agencies": [
+    {
+      "agency": "Transportation Department",
+      "count": 25
+    },
+    {
+      "agency": "Defense Department",
+      "count": 13
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 11
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 11
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 9
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 9
+    },
+    {
+      "agency": "Maritime Administration",
+      "count": 7
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 7
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Federal Motor Carrier Safety Administration",
+      "count": 4
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "Navy Department",
+      "count": 4
+    },
+    {
+      "agency": "Justice Department",
+      "count": 3
+    },
+    {
+      "agency": "Drug Enforcement Administration",
+      "count": 3
+    },
+    {
+      "agency": "Housing and Urban Development Department",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 18,
+  "with_comment_deadline": 43,
+  "body_text_fetched": 101
+}

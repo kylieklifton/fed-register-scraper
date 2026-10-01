@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-30",
+  "total_documents": 128,
+  "by_type": {
+    "Notice": 94,
+    "Rule": 23,
+    "Proposed Rule": 10,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 22
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 19
+    },
+    {
+      "agency": "National Park Service",
+      "count": 19
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 15
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 13
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 13
+    },
+    {
+      "agency": "Foreign Assets Control Office",
+      "count": 12
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 11
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 7
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 6
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Energy Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 5
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "National Highway Traffic Safety Administration",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 19,
+  "with_comment_deadline": 31,
+  "body_text_fetched": 128
+}

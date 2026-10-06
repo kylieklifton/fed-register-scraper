@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-05",
+  "total_documents": 106,
+  "by_type": {
+    "Notice": 80,
+    "Proposed Rule": 17,
+    "Rule": 8,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Health and Human Services Department",
+      "count": 18
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 17
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 17
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 16
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 12
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 11
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 5
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Interior Department",
+      "count": 5
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 4
+    },
+    {
+      "agency": "Centers for Disease Control and Prevention",
+      "count": 4
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "Centers for Medicare & Medicaid Services",
+      "count": 3
+    },
+    {
+      "agency": "Children and Families Administration",
+      "count": 3
+    },
+    {
+      "agency": "Executive Office of the President",
+      "count": 2
+    }
+  ],
+  "with_effective_date": 9,
+  "with_comment_deadline": 46,
+  "body_text_fetched": 106
+}

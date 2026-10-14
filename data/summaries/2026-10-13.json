@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-13",
+  "total_documents": 103,
+  "by_type": {
+    "Notice": 77,
+    "Rule": 18,
+    "Proposed Rule": 6,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 20
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 17
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 15
+    },
+    {
+      "agency": "Justice Department",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Energy Department",
+      "count": 8
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 7
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 6
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 6
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 3
+    },
+    {
+      "agency": "Susquehanna River Basin Commission",
+      "count": 3
+    },
+    {
+      "agency": "Executive Office of the President",
+      "count": 2
+    },
+    {
+      "agency": "Interior Department",
+      "count": 2
+    }
+  ],
+  "with_effective_date": 19,
+  "with_comment_deadline": 24,
+  "body_text_fetched": 103
+}

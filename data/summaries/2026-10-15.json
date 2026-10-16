@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-15",
+  "total_documents": 78,
+  "by_type": {
+    "Notice": 55,
+    "Rule": 13,
+    "Proposed Rule": 10
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 11
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 6
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 6
+    },
+    {
+      "agency": "Energy Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 5
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 5
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 4
+    },
+    {
+      "agency": "Farm Credit Administration",
+      "count": 4
+    },
+    {
+      "agency": "Federal Maritime Commission",
+      "count": 4
+    },
+    {
+      "agency": "Justice Department",
+      "count": 4
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 3
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 3
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "count": 3
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 18,
+  "with_comment_deadline": 26,
+  "body_text_fetched": 78
+}

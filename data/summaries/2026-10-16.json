@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-16",
+  "total_documents": 129,
+  "by_type": {
+    "Notice": 113,
+    "Rule": 12,
+    "Proposed Rule": 4
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 19
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 18
+    },
+    {
+      "agency": "National Park Service",
+      "count": 17
+    },
+    {
+      "agency": "Labor Department",
+      "count": 16
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 13
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 12
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 8
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 8
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 7
+    },
+    {
+      "agency": "Energy Department",
+      "count": 7
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 6
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 6
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 6
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 5
+    },
+    {
+      "agency": "Animal and Plant Health Inspection Service",
+      "count": 5
+    }
+  ],
+  "with_effective_date": 13,
+  "with_comment_deadline": 37,
+  "body_text_fetched": 129
+}

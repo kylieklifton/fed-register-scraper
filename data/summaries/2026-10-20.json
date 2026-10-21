@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-20",
+  "total_documents": 82,
+  "by_type": {
+    "Notice": 75,
+    "Proposed Rule": 4,
+    "Rule": 3
+  },
+  "top_agencies": [
+    {
+      "agency": "Energy Department",
+      "count": 12
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 10
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 10
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Federal Railroad Administration",
+      "count": 6
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 6
+    },
+    {
+      "agency": "Defense Department",
+      "count": 5
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 5
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 5
+    },
+    {
+      "agency": "Justice Department",
+      "count": 5
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Drug Enforcement Administration",
+      "count": 4
+    },
+    {
+      "agency": "U.S. Customs and Border Protection",
+      "count": 4
+    },
+    {
+      "agency": "Veterans Affairs Department",
+      "count": 3
+    },
+    {
+      "agency": "State Department",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 6,
+  "with_comment_deadline": 30,
+  "body_text_fetched": 82
+}

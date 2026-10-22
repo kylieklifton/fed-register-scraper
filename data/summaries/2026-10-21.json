@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-21",
+  "total_documents": 63,
+  "by_type": {
+    "Notice": 53,
+    "Proposed Rule": 6,
+    "Rule": 3,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Health and Human Services Department",
+      "count": 11
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 8
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 7
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 6
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 5
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 3
+    },
+    {
+      "agency": "Justice Department",
+      "count": 3
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 3
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "count": 3
+    },
+    {
+      "agency": "Energy Department",
+      "count": 3
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 3
+    },
+    {
+      "agency": "Interior Department",
+      "count": 3
+    },
+    {
+      "agency": "Indian Affairs Bureau",
+      "count": 3
+    },
+    {
+      "agency": "Internal Revenue Service",
+      "count": 2
+    }
+  ],
+  "with_effective_date": 6,
+  "with_comment_deadline": 23,
+  "body_text_fetched": 63
+}

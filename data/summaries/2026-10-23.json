@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-23",
+  "total_documents": 82,
+  "by_type": {
+    "Notice": 69,
+    "Proposed Rule": 7,
+    "Rule": 6
+  },
+  "top_agencies": [
+    {
+      "agency": "Health and Human Services Department",
+      "count": 16
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 7
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 6
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 6
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 5
+    },
+    {
+      "agency": "State Department",
+      "count": 4
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 4
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 3
+    },
+    {
+      "agency": "Comptroller of the Currency",
+      "count": 3
+    },
+    {
+      "agency": "Veterans Affairs Department",
+      "count": 3
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 3
+    },
+    {
+      "agency": "Education Department",
+      "count": 3
+    },
+    {
+      "agency": "U.S. Immigration and Customs Enforcement",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 7,
+  "with_comment_deadline": 44,
+  "body_text_fetched": 82
+}

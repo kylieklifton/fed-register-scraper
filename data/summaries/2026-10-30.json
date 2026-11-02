@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-30",
+  "total_documents": 119,
+  "by_type": {
+    "Notice": 101,
+    "Rule": 17,
+    "Presidential Document": 1
+  },
+  "top_agencies": [
+    {
+      "agency": "Interior Department",
+      "count": 19
+    },
+    {
+      "agency": "National Park Service",
+      "count": 19
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 17
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 13
+    },
+    {
+      "agency": "Energy Department",
+      "count": 12
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 12
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 7
+    },
+    {
+      "agency": "Foreign-Trade Zones Board",
+      "count": 7
+    },
+    {
+      "agency": "Housing and Urban Development Department",
+      "count": 7
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 6
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 5
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 5
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 4
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 21,
+  "with_comment_deadline": 26,
+  "body_text_fetched": 119
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-02",
+  "total_documents": 102,
+  "by_type": {
+    "Notice": 87,
+    "Rule": 8,
+    "Proposed Rule": 5,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 20
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 14
+    },
+    {
+      "agency": "Foreign-Trade Zones Board",
+      "count": 9
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 9
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 8
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 7
+    },
+    {
+      "agency": "Justice Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "Defense Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 3
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 3
+    },
+    {
+      "agency": "Engineers Corps",
+      "count": 3
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 3
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 11,
+  "with_comment_deadline": 27,
+  "body_text_fetched": 102
+}

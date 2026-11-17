@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-16",
+  "total_documents": 104,
+  "by_type": {
+    "Notice": 83,
+    "Rule": 11,
+    "Proposed Rule": 8,
+    "Presidential Document": 2
+  },
+  "top_agencies": [
+    {
+      "agency": "Commerce Department",
+      "count": 29
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 25
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 9
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 9
+    },
+    {
+      "agency": "Labor Department",
+      "count": 7
+    },
+    {
+      "agency": "Energy Department",
+      "count": 6
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 6
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "count": 5
+    },
+    {
+      "agency": "Interior Department",
+      "count": 4
+    },
+    {
+      "agency": "National Oceanic and Atmospheric Administration",
+      "count": 4
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 4
+    },
+    {
+      "agency": "State Department",
+      "count": 3
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 3
+    },
+    {
+      "agency": "Coast Guard",
+      "count": 3
+    },
+    {
+      "agency": "Federal Reserve System",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 16,
+  "with_comment_deadline": 38,
+  "body_text_fetched": 104
+}

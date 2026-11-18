@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-17",
+  "total_documents": 99,
+  "by_type": {
+    "Notice": 82,
+    "Rule": 9,
+    "Proposed Rule": 8
+  },
+  "top_agencies": [
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 22
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 15
+    },
+    {
+      "agency": "Labor Department",
+      "count": 15
+    },
+    {
+      "agency": "Mine Safety and Health Administration",
+      "count": 9
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 8
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 5
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 4
+    },
+    {
+      "agency": "Interior Department",
+      "count": 4
+    },
+    {
+      "agency": "Energy Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 3
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "count": 3
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 3
+    },
+    {
+      "agency": "Food and Drug Administration",
+      "count": 3
+    },
+    {
+      "agency": "Occupational Safety and Health Administration",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 14,
+  "with_comment_deadline": 33,
+  "body_text_fetched": 99
+}

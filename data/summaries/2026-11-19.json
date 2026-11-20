@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-19",
+  "total_documents": 98,
+  "by_type": {
+    "Notice": 78,
+    "Rule": 11,
+    "Proposed Rule": 9
+  },
+  "top_agencies": [
+    {
+      "agency": "Health and Human Services Department",
+      "count": 15
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 12
+    },
+    {
+      "agency": "Transportation Department",
+      "count": 10
+    },
+    {
+      "agency": "Small Business Administration",
+      "count": 10
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 8
+    },
+    {
+      "agency": "Interior Department",
+      "count": 7
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "count": 6
+    },
+    {
+      "agency": "National Institutes of Health",
+      "count": 6
+    },
+    {
+      "agency": "Centers for Medicare & Medicaid Services",
+      "count": 5
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 5
+    },
+    {
+      "agency": "Postal Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "Energy Department",
+      "count": 4
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "Land Management Bureau",
+      "count": 4
+    },
+    {
+      "agency": "Homeland Security Department",
+      "count": 4
+    }
+  ],
+  "with_effective_date": 14,
+  "with_comment_deadline": 41,
+  "body_text_fetched": 98
+}

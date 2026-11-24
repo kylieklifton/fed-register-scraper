@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-23",
+  "total_documents": 91,
+  "by_type": {
+    "Notice": 79,
+    "Proposed Rule": 7,
+    "Rule": 5
+  },
+  "top_agencies": [
+    {
+      "agency": "Transportation Department",
+      "count": 13
+    },
+    {
+      "agency": "Commerce Department",
+      "count": 12
+    },
+    {
+      "agency": "Federal Aviation Administration",
+      "count": 9
+    },
+    {
+      "agency": "Health and Human Services Department",
+      "count": 7
+    },
+    {
+      "agency": "Foreign-Trade Zones Board",
+      "count": 6
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "count": 6
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "count": 4
+    },
+    {
+      "agency": "International Trade Commission",
+      "count": 4
+    },
+    {
+      "agency": "International Trade Administration",
+      "count": 4
+    },
+    {
+      "agency": "Treasury Department",
+      "count": 4
+    },
+    {
+      "agency": "Interior Department",
+      "count": 4
+    },
+    {
+      "agency": "Agriculture Department",
+      "count": 3
+    },
+    {
+      "agency": "State Department",
+      "count": 3
+    },
+    {
+      "agency": "Commodity Futures Trading Commission",
+      "count": 3
+    },
+    {
+      "agency": "Fish and Wildlife Service",
+      "count": 3
+    }
+  ],
+  "with_effective_date": 12,
+  "with_comment_deadline": 33,
+  "body_text_fetched": 91
+}
